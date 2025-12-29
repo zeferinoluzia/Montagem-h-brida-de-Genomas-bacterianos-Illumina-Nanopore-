@@ -1,0 +1,29 @@
+[2025-08-14 15:13:48] INFO: CheckM v1.2.4
+[2025-08-14 15:13:48] INFO: checkm qa results/all/lineage.ms results/all/
+[2025-08-14 15:13:48] INFO: CheckM data: /home/luzia/WGS/checkM/checkm_data
+[2025-08-14 15:13:48] INFO: [CheckM - qa] Tabulating genome statistics.
+[2025-08-14 15:13:48] INFO: Calculating AAI between multi-copy marker genes.
+[2025-08-14 15:13:48] INFO: Reading HMM info from file.
+[2025-08-14 15:13:49] INFO: Parsing HMM hits to marker genes:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                         Marker lineage           # genomes   # markers   # marker sets    0     1     2    3   4   5+   Completeness   Contamination   Strain heterogeneity  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  kp_692.long.medusa    f__Enterobacteriaceae (UID5121)      138         1162          336         0    1149   12   0   1   0       100.00           1.71               5.56          
+  kp_692.hib.medusa     f__Enterobacteriaceae (UID5121)      138         1162          336         0    1149   12   0   1   0       100.00           1.71               5.56          
+  kp_686.long.medusa    f__Enterobacteriaceae (UID5121)      138         1162          336         0    1149   12   0   1   0       100.00           1.71               5.56          
+  kp_686.hib.medusa     f__Enterobacteriaceae (UID5121)      138         1162          336         0    1149   12   0   1   0       100.00           1.71               5.56          
+  kp_646.short.medusa   f__Enterobacteriaceae (UID5121)      138         1162          336         0    1154   8    0   0   0       100.00           0.63               0.00          
+  kp_646.long.medusa    f__Enterobacteriaceae (UID5121)      138         1162          336         0    1154   8    0   0   0       100.00           0.63               0.00          
+  kp_646.hib.medusa         g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_645.short.medusa       g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_645.long.medusa        g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_645.hib.medusa         g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_644.long.medusa        g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_644.hib.medusa         g__Klebsiella (UID5140)           31         1312          336         0    1304   5    3   0   0       100.00           0.43               0.00          
+  kp_644.short.medusa       g__Klebsiella (UID5140)           31         1312          336         2    1302   5    3   0   0       99.93            0.43               0.00          
+  kp_686.short.medusa   f__Enterobacteriaceae (UID5121)      138         1162          336         1    1147   13   0   1   0       99.90            1.86               5.26          
+  kp_588.long.medusa    f__Enterobacteriaceae (UID5121)      138         1162          336         1    1151   7    3   0   0       99.70            0.97              81.25          
+  kp_692.short.medusa   f__Enterobacteriaceae (UID5121)      138         1162          336         8    1142   11   0   1   0       99.01            1.67               5.88          
+  kp_588.hib.medusa     f__Enterobacteriaceae (UID5121)      138         1162          336        133   998    27   2   1   1       89.56            3.67              65.31          
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2025-08-14 15:13:55] INFO: { Current stage: 0:00:07.035 || Total: 0:00:07.035 }
