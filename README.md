@@ -1,4 +1,4 @@
-# Montagem-h-brida-de-Genomas-bacterianos-Illumina-Nanopore-
+# Montagem-hibrida-de-Genomas-bacterianos-Illumina-Nanopore-
 
 Pipeline completo e reprodutível para montagem híbrida de genomas bacterianos
 utilizando **short reads (Illumina)** e **long reads (Oxford Nanopore)**,
