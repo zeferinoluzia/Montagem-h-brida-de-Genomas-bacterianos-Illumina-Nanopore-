@@ -1,0 +1,29 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: enterobacteriaceae_odb12 (Creation date: 2025-05-14, number of genomes: 107, number of BUSCOs: 874)
+# Summarized benchmarking in BUSCO notation for file /home/luzia/WGS/assemble_fasta/kp_644.hib.fasta
+# BUSCO was run in mode: prok_genome_prod
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:98.9%[S:98.9%,D:0.0%],F:0.3%,M:0.8%,n:874	   
+	864	Complete BUSCOs (C)			   
+	864	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	3	Fragmented BUSCOs (F)			   
+	7	Missing BUSCOs (M)			   
+	874	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	5	Number of scaffolds
+	5	Number of contigs
+	5888361	Total length
+	0.000%	Percent gaps
+	5 Mbp	Scaffold N50
+	5 Mbp	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	prodigal: 2.6.3
