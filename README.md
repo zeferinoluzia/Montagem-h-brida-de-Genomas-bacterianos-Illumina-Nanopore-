@@ -45,7 +45,7 @@ hybrid-genome-assembly-revirae/
 ├── figures/
 ├── docs/
 └── README.md
-
+```
 
 ## 1️⃣ Controle de Qualidade das Reads
 Short reads (Illumina) – FastQC
